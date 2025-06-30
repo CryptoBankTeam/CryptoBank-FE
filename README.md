@@ -18,7 +18,7 @@
 | Деплой          | Hardhat                                                                    |
 
 ##  Скриншоты
-
+![UserInterface](https://github.com/CryptoBankTeam/CryptoBank-BE/issues/2)
 
 ##  Установка и запуск
 1. Клонируйте репозиторий:
