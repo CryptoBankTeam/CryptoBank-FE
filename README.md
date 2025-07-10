@@ -25,10 +25,10 @@
    ```bash
    git clone https://github.com/CryptoBankTeam/CryptoBank-FE.git
    cd CryptoBank-FE
-2. Установите зависимости
+2. Установите зависимости:
    ```bash
    npm install
-3. Запустите проект
+3. Запустите проект:
    ```bash
    npm run dev
 4. Откройте http://localhost:3000 в браузере с MetaMask.
